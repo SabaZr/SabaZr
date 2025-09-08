@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there+👋&width=500&height=50" alt="Typing" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there+👋+I+am+Saba+Zare&width=800&height=50" alt="Typing" />
+</p>
+
 
 ### As a developer
 🚀 Turning coffee![into](https://img.shields.io/badge/into-red) code & research papers.  
