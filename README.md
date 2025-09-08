@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-🚀 Turning coffee <span style="color:red">into</span> code & research papers.  
-🌐 Working <span style="color:red">on</span> AI, network computing, bioinformatics & medical research.  
+🚀 Turning coffee ![into](https://img.shields.io/badge/into-red) code & research papers.  
+🌐 Working ![on](https://img.shields.io/badge/on-red) AI, network computing, bioinformatics & medical research.  
 📫 Reach me at: [sabazare.zrz@gmail.com](mailto:sabazare.zrz@gmail.com)
+
 
